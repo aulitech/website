@@ -1,10 +1,8 @@
-# Joy of Code
+# Autonomous Living Technologies
 
-![Bob Ross](https://i.giphy.com/media/d31vTpVi1LAcDvdm/giphy.gif)
+## 🧑‍🎨 What is AuLi.Tech
 
-## 🧑‍🎨 What is Joy of Code?
-
-[Joy of Code](https://joyofcode.xyz/) is a digital garden growing curious minds focused on web development and web design.
+[AuLi.Tech](https://www.auli.tech/) is a collaborative open source organization dedicated to building SAssistive Technologies
 
 ## ▶️ YouTube
 
@@ -12,7 +10,7 @@ You can find my videos on [YouTube](https://www.youtube.com/@joyofcodedev).
 
 ## 💰️ Support
 
-You can support my work by [becoming a patron](https://www.patreon.com/joyofcode) or [becoming a YouTube member](https://youtube.com/@joyofcodedev/join) starting low as **$1/month**.
+You can support us by [becoming a patron](https://www.patreon.com/joyofcode) or [becoming a YouTube member](https://youtube.com/@joyofcodedev/join) starting low as **$1/month**.
 
 ## 🤗 Contributing
 
@@ -20,7 +18,7 @@ At the end of each post there's a direct link to the **Markdown** file of the po
 
 ## 💬 GitHub Discussions
 
-I use [GitHub Discussions](https://github.com/mattcroat/joy-of-code/discussions) to track breaking changes for posts which you can use to report issues.
+We use [GitHub Discussions](https://github.com/mattcroat/joy-of-code/discussions) to track breaking changes for posts which you can use to report issues.
 
 ## 🧭 Uses
 
